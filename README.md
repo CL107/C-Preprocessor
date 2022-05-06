@@ -1,4 +1,3 @@
-
 ██████╗░██████╗░███████╗██████╗░██████╗░░█████╗░░█████╗░███████╗░██████╗░██████╗
 ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝
 ██████╔╝██████╔╝█████╗░░██████╔╝██████╔╝██║░░██║██║░░╚═╝█████╗░░╚█████╗░╚█████╗░
@@ -13,7 +12,6 @@ This program is intended to build and optimise the C Preprocessor and contains t
 2. Replacing header files with file contents
 3. Replacing constants with values
 4. Condtional compilation
-
 ##
 **Usage**
 
